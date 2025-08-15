@@ -1,0 +1,9 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config: {}
+  plugins:
+    Ascension-AI-Tournament:
+      config: {}
+meta:
+  version: 1.0.0

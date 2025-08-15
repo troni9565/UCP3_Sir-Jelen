@@ -1,0 +1,8 @@
+name: Sir-Jelen
+author: troni
+version: 1.0.0
+dependencies:
+  Ascension-AI-Tournament: ^3.0.0
+  aiSwapper: ^1.2.0
+  framework: ">=3.0.7"
+  frontend: ">=1.0.13"
