@@ -1,14 +1,14 @@
 {
   "ai_name"      : "Sir Jelen",
 
-  "title_1"      : "I",
-  "title_2"      : "\"II\"",
-  "title_3"      : "III",
-  "title_4"      : "\"IV\"",
-  "title_5"      : "\"V\"",
-  "title_6"      : "\"VI\"",
-  "title_7"      : "\"VII\"",
-  "title_8"      : "\"VIII\"",
+  "title_1"      : "\"Der Gnädige\"",
+  "title_2"      : "\"Der Alte\"",
+  "title_3"      : "\"Der Hirsch\"",
+  "title_4"      : "\"Der Steuereintreiber\"",
+  "title_5"      : "\"Der schwarze Mönch\"",
+  "title_6"      : "\"Der Heitere\"",
+  "title_7"      : "\"Der Turbo-Opa\"",
+  "title_8"      : "\"Der Wetterfrosch\"",
 
   "description"  : "Sir Jelen ist großzügig und gut darin bewandert Bündnisse zuschließen. Ein Mann welcher schon vor Jahrzehnten eine christliche Gemeinde im Osten aufbaute. Er ist ein Gegner den man nicht aus den Augen verlieren sollte. Sein Alter macht sich aber hin und wieder bemerkbar.",
 
@@ -46,4 +46,5 @@
   "team_losing"  : "Nur Mut! Gott steht uns bei! Wir werden nicht verlieren, sondern siegen!",
   "help_sent"    : "Meine schwarzen Mönche sind auf dem Weg!",
   "will_attack"  : "Ich habe bei euren Plänen keine Einwände. Meine Männer sind auf dem Weg."
+
 }
